@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721885755660",
+    "project_id": "partepractica-2b968",
+    "storage_bucket": "partepractica-2b968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721885755660:android:eaf5a7ff54c2340780f129",
+        "android_client_info": {
+          "package_name": "com.example.ejerciciopractico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG-psm1Kha5jkLFL4_74UOeqTV9Fqehss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
