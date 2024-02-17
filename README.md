@@ -1,4 +1,4 @@
-La aplicaccion lleva implementado Firebase Authentication para el registro e inicio de sesion de usuario , ademas de inicio de sesion con google. Cuando se inicia sesion se carga un RecyclerView con datos cargados de firebase firestore
+La aplicaccion lleva implementado Firebase Authentication para el registro e inicio de sesion de usuario , ademas de inicio de sesion con google. Cuando se inicia sesion se carga un RecyclerView con datos cargados de firebase firestore.El apartado grafico esta todo hecho con ConstraintLayout.
 
 Parte Teorica 
 1.	Explique en detalle cómo Kotlin Coroutine se integra con el ciclo de vida de las actividades y fragmentos en Android, y cómo esto mejora la gestión de tareas asíncronas.
