@@ -13,7 +13,6 @@ import android.util.Log
 class Productos : AppCompatActivity() {
 
     private lateinit var productosAdapter: ProductosAdapter
-    private lateinit var productosRecyclerView: RecyclerView
 
     data class Producto(
         val id: String = "",

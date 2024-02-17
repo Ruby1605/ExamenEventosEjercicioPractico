@@ -9,7 +9,7 @@
     <EditText
         android:id="@+id/email"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="33dp"
         android:layout_marginTop="276dp"
         android:hint="  Correo"
         android:inputType="textEmailAddress"
@@ -22,7 +22,7 @@
     <EditText
         android:id="@+id/password"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="33dp"
         android:layout_marginTop="44dp"
         android:background="@drawable/edit_text_background"
         android:hint=" Contraseña"

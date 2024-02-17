@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.ejerciciopractico.Productos.Producto
-import android.widget.ImageView
 
 class ProductosAdapter(private var productos: List<Producto>) : RecyclerView.Adapter<ProductosAdapter.ProductoViewHolder>() {
 
